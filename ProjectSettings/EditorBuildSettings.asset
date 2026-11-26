@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/\u5F00\u59CB\u754C\u9762.scene"
+    guid: 051b7973012bf124d9d7000124b01082
+  - enabled: 1
+    path: "Assets/Scenes/\u5E8F\u7AE0.scene"
+    guid: 0e9d2bf243323f04485ed197672e86d7
+  - enabled: 1
+    path: "Assets/Scenes/\u6B21\u5143\u7A7A\u95F4.scene"
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/Scenes/\u5546\u671D/\u5546\u671D.scene"
+    guid: f74f36f0634cd1243bbdaea90bc705e1
+  - enabled: 1
+    path: "Assets/Scenes/\u5546\u671D/\u5546\u671D\u96C6\u5E02.scene"
+    guid: df2db9cf3e537e94da191f49a270c4ef
+  - enabled: 1
+    path: "Assets/Scenes/\u5546\u671D/\u4E95\u5E95.scene"
+    guid: 7f7ea1f54923f554ea46dc5d7a8d1c93
+  - enabled: 0
+    path: "Assets/Scenes/\u79E6\u671D.scene"
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: "Assets/Scenes/\u5546\u671D/\u738B\u5BAB.scene"
+    guid: 4cca15762d1371f41a4f078c906c20d4
+  - enabled: 1
+    path: "Assets/Scenes/\u79E6\u671D/\u54B8\u9633\u8857\u5E02.scene"
+    guid: ddd1c40a2b75c924a8d637e346bc17db
+  - enabled: 1
+    path: "Assets/Scenes/\u79E6\u671D/\u592A\u5B66\u85CF\u4E66\u9601.scene"
+    guid: 49ad4311d9b87db4f81bada0c0dcc318
+  - enabled: 1
+    path: "Assets/Scenes/\u5510\u671D/\u957F\u5B89\u8BD7\u4F1A.scene"
+    guid: 977c115630313d548bf71af6a67446be
+  - enabled: 1
+    path: "Assets/Scenes/\u7ED3\u5C40.scene"
+    guid: 110f5b16f11f2b945baae719d2bad4d8
+  m_BuildProfiles: []
+  m_configObjects: {}
+  m_SlimFeaturesWeixinMiniGame:
+    ACLDecompression: 0
+    AllocateOverhead: 1
+    DecompressASTC: 0
+    DecompressDXT: 0
+    DecompressETC: 1
+    FreeTypeSfntPng: 1
+    LightProbe: 2
+    RootMotion: 0
+    UseStringInternPool: 2

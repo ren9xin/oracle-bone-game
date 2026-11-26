@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ac13d58f66aaf143b0bfd33292dedbf, type: 3}
+  m_Name: "\u51732_\u9152_\u51C9\u5DDE\u8BCD\u738B\u7FF0"
+  m_EditorClassIdentifier: 
+  "\u4E3B\u9898\u5B57": "\u9152"
+  "\u5019\u9009\u8BD7\u53E5":
+  - "\u8461\u8404\u7F8E\u9152\u591C\u5149\u676F"
+  - "\u6B32\u996E\u7435\u7436\u9A6C\u4E0A\u50AC"
+  - "\u9189\u5367\u6C99\u573A\u541B\u83AB\u7B11"
+  - "\u53E4\u6765\u5F81\u6218\u51E0\u4EBA\u56DE"
+  "\u9009\u9879\u6316\u7A7A\u5B57":
+  - "\u9152"
+  - "\u9A6C"
+  - "\u6C99"
+  - "\u6218"
+  "\u6B63\u786E\u7D22\u5F15": 0
+  "\u51FA\u5904": "\u738B\u7FF0\u300A\u51C9\u5DDE\u8BCD\u300B"
+  "\u6CE8\u91CA": 
+  "\u96BE\u5EA6": 2

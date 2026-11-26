@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe0ed64885b04704fa96f94d85ba14f2, type: 3}
+  m_Name: "04_\u5B66\u7AE5_\u7B54\u5BF9\u53CD\u5E94"
+  m_EditorClassIdentifier: 
+  npcData: {fileID: 11400000, guid: f023c475403b25e49b1cb6b69b439bc5, type: 2}
+  dialogueContent:
+  - "\u5440\uFF0C\u7ADF\u88AB\u60A8\u7B54\u4E2D\u4E86\u2026\u2026"
+  - "\uFF08\u5C0F\u660E\u5FC3\u60F3\uFF1A\u8FD8\u597D\u80CC\u8FC7\u8FD9\u9996\uFF09"
+  dialogueOptions: []
+  NextDialogueNode: {fileID: 0}
+  callbacks: []

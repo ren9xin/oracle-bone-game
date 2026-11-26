@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe0ed64885b04704fa96f94d85ba14f2, type: 3}
+  m_Name: "\u6545\u969C1"
+  m_EditorClassIdentifier: 
+  npcData: {fileID: 11400000, guid: 731566320370c4948b8aa12356bf1865, type: 2}
+  dialogueContent:
+  - "\u4EC0\u4E48\u60C5\u51B5\uFF1F\u4E2D\u75C5\u6BD2\u4E86\uFF1F"
+  dialogueOptions: []
+  NextDialogueNode: {fileID: 0}
+  callbacks:
+  - targetObjectName: "\u5E55\u5E03"
+    callbackFunctionName: Light

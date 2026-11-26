@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe0ed64885b04704fa96f94d85ba14f2, type: 3}
+  m_Name: "\u7075\u8749\u5BF9\u767D_\u79E6\u671D\u540E"
+  m_EditorClassIdentifier: 
+  npcData: {fileID: 11400000, guid: 33382451f74e6cc449c944b3d1435671, type: 2}
+  dialogueContent:
+  - "\u770B\u6765\u4F60\u5DF2\u7ECF\u6210\u529F\u62EF\u6551\u4E86\u90A3\u4E9B\u7AF9\u7B80\u5462\u3002"
+  - "\u4E00\u4E2A\u8F89\u714C\u7684\u6587\u660E\u4E0D\u5E94\u5C31\u6B64\u6E6E\u706D\uFF0C\u4F60\u505A\u7684\u975E\u5E38\u597D\u3002"
+  - "\u5982\u679C\u60F3\u67E5\u770B\u4F60\u6240\u62EF\u6551\u7684\u6587\u5B57\uFF0C\u4F60\u53EF\u4EE5\u6309J\u952E\u6253\u5F00\u5B57\u5178\u7FFB\u9605\u3002"
+  dialogueOptions: []
+  NextDialogueNode: {fileID: 11400000, guid: f9c93eeab7634ed42ab84ca83a3e579f, type: 2}
+  callbacks: []

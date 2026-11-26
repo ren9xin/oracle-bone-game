@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfb0a8aa90ab1fd46a44f77a39db5c14, type: 3}
+  m_Name: "\u7532\u9AA8\u6587-\u9A6C"
+  m_EditorClassIdentifier: 
+  itemName: "\u9A6C"
+  itemImage: {fileID: 21300000, guid: 14cb9a6a30d57e6429c177f591c9338d, type: 3}
+  itemHeld: 1
+  itemInfo: "\u7532\u9AA8\u4E0A\u523B\u7740\u4E00\u4E2A\u53E4\u5B57\u3002\u8FD9\u662F\u6587\u5B57\u7684\u6700\u53E4\u5F62\u3002"
+  equip: 0
+  "\u56FE_\u7532\u9AA8": {fileID: 21300000, guid: 14cb9a6a30d57e6429c177f591c9338d, type: 3}
+  "\u56FE_\u79E6\u7BC6": {fileID: 21300000, guid: 8de4ece1051c8d7409d7ac23e22dc434, type: 3}
+  "\u56FE_\u5510\u6977": {fileID: 21300000, guid: 05e0eb29d9613ce4ca1b8a1d8eef1533, type: 3}
+  "info_\u7532\u9AA8": "\u7532\u9AA8\u4E0A\u523B\u7740\u4E00\u4E2A\u53E4\u5B57\u3002\u8FD9\u662F\u6587\u5B57\u7684\u6700\u53E4\u5F62\u3002"
+  "info_\u79E6\u7BC6": "\u7532\u9AA8\u7684\u6587\u5B57\u6709\u6240\u53D8\u5316\uFF0C\u8FD9\u8C8C\u4F3C\u662F\u79E6\u7BC6\u3002"
+  "info_\u5510\u6977": "\u7532\u9AA8\u7684\u6587\u5B57\u518D\u6B21\u53D1\u751F\u53D8\u5316\uFF0C\u8FD9\u662F\u5510\u6977\u3002"
+  "\u5F53\u524D\u5B57\u5F62\u9636\u6BB5": 0
